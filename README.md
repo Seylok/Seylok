@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seylok
-- 👀 I’m interested in Games, Game Dev, Coding, Music, Reading, Working out, Food
+- 👀 I’m interested in Games, Game Dev, Coding, Music, Reading, Working out, Cooking
 - 🌱 I’m currently learning C++ and Unreal Engine
 
 <!---
